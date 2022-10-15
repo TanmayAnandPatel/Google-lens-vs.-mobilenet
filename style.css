@@ -1,0 +1,21 @@
+.mobilenet{
+width: 100px;
+
+}
+#google{
+    width: 100px;
+    height: 0px;
+}
+body {
+    background-color: rgb(255, 230, 0);
+}
+#pen_drive,#book {
+    width: 150px;
+}
+#h3 {
+    font-weight: bold;
+    color: black;
+}
+#s1 {
+    font-weight: bold;
+}
